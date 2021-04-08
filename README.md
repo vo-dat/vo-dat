@@ -10,6 +10,7 @@
 
 - <span style="font-weight:bold">Name:</span> Vo Cong Dat
 - <span style="font-weight:bold">Date of birth:</span> 1999
+- Sex: Male
 - <span style="font-weight:bold">Contryside:</span> Phu Yen Province
 
 ## Skill
