@@ -8,9 +8,9 @@
 
 ## Info <a href="https://github.com/vo-dat"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
 
-- ## <span style="font-weight:bold">Name:</span> Vo Cong Dat
-- ## <span style="font-weight:bold">Date of birth:</span> 1999
-- ## <span style="font-weight:bold">Contryside:</span> Phu Yen Province
+- <span style="font-weight:bold">Name:</span> Vo Cong Dat
+- <span style="font-weight:bold">Date of birth:</span> 1999
+- <span style="font-weight:bold">Contryside:</span> Phu Yen Province
 
 ## Skill
 
