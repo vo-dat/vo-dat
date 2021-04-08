@@ -1,4 +1,4 @@
-![Easy Frontend banner](https://res.cloudinary.com/kimwy/image/upload/v1598840121/easyfrontend/easy-frontend-banner-cropped_yjw0g0.jpg)
+![Easy Frontend banner](https://goclamweb.com/wp-content/uploads/2018/01/front-end.jpg)
 
 # Paul Nguyen - Passionate Web Developer, Frontend Trainer
 
